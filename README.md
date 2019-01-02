@@ -3,7 +3,6 @@ This is my first app with React js, for now is amazing.
 
 Use this app is very esay!
 
-
 ## Demo
 
 ![alt text](https://github.com/Vente16/triki-game/blob/master/demo.gif)
