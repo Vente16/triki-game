@@ -1,7 +1,7 @@
 # Triki game
 This is my first app with React js, for now is amazing.
 
-Use this app is very esay!
+Use this app is very easy!
 
 ## Demo
 
